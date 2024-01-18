@@ -1,9 +1,4 @@
-# Mailspring Deep Marine
-
-This Mailspring Theme is a basic dark theme for
-the [Mailspring](http://www.getmailspring.com/) email client.
-
-<img src="screenshot/custom-theme.png" />
+# Mailspring Material Ocean theme
 
 ## Installing
 
@@ -13,7 +8,6 @@ Installing this theme in Mailspring is easy! Here's how you can do it.
 
 2. Open Mailspring  and install the theme by going to `Mailspring > Install New Theme...`
    and selecting the directory.
-
 
 ## Structure
 
@@ -28,4 +22,5 @@ Installing this theme in Mailspring is easy! Here's how you can do it.
 ```
 
 ## Credit
-Readability bugs solved thanks to [this repo](https://github.com/asparc/predawn).
+To the Mailspring Deep Marine theme for allowing a beautiful theme that was easy to configure for Material Theme Deep Ocean colors
+
