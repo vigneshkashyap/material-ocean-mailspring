@@ -1,5 +1,9 @@
 # Mailspring Material Ocean theme
 
+## Screenshot
+
+![Alt text](/screenshot/sample.jpeg?raw=true "Mailspring Ocean Theme")
+
 ## Installing
 
 Installing this theme in Mailspring is easy! Here's how you can do it.
